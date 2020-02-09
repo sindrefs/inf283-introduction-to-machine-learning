@@ -1,0 +1,247 @@
+Model testing started 2018-10-25 00:16:06.887096
+Testing for following parameters
+{'n_layers': [2, 6, 10, 14], 'epochs': [10, 20, 30], 'batch_size': [80, 100, 120], 'n_neurons': [10, 80, 150, 250]}
+
+Cross val. three fold for
+{'n_layers': 2, 'epochs': 10, 'batch_size': 80, 'n_neurons': 10}
+Gives score of 0.9601761826787677
+
+Cross val. three fold for
+{'n_layers': 2, 'epochs': 10, 'batch_size': 80, 'n_neurons': 80}
+Gives score of 0.9934523792266846
+
+Cross val. three fold for
+{'n_layers': 2, 'epochs': 10, 'batch_size': 80, 'n_neurons': 150}
+Gives score of 0.993399996575855
+
+Cross val. three fold for
+{'n_layers': 2, 'epochs': 10, 'batch_size': 80, 'n_neurons': 250}
+Gives score of 0.9931190440768286
+
+Cross val. three fold for
+{'n_layers': 2, 'epochs': 10, 'batch_size': 100, 'n_neurons': 10}
+Gives score of 0.9826095280874343
+
+Cross val. three fold for
+{'n_layers': 2, 'epochs': 10, 'batch_size': 100, 'n_neurons': 80}
+Gives score of 0.9930523786090669
+
+Cross val. three fold for
+{'n_layers': 2, 'epochs': 10, 'batch_size': 100, 'n_neurons': 150}
+Gives score of 0.993395235856374
+
+Cross val. three fold for
+{'n_layers': 2, 'epochs': 10, 'batch_size': 100, 'n_neurons': 250}
+Gives score of 0.9935333304859344
+
+Cross val. three fold for
+{'n_layers': 2, 'epochs': 10, 'batch_size': 120, 'n_neurons': 10}
+Gives score of 0.9881857155164083
+
+Cross val. three fold for
+{'n_layers': 2, 'epochs': 10, 'batch_size': 120, 'n_neurons': 80}
+Gives score of 0.9926857108161563
+
+Cross val. three fold for
+{'n_layers': 2, 'epochs': 10, 'batch_size': 120, 'n_neurons': 150}
+Gives score of 0.9932095201583135
+
+Cross val. three fold for
+{'n_layers': 2, 'epochs': 10, 'batch_size': 120, 'n_neurons': 250}
+Gives score of 0.993590472584679
+
+Cross val. three fold for
+{'n_layers': 2, 'epochs': 20, 'batch_size': 80, 'n_neurons': 10}
+Gives score of 0.9909999988192605
+
+Cross val. three fold for
+{'n_layers': 2, 'epochs': 20, 'batch_size': 80, 'n_neurons': 80}
+Gives score of 0.9937190443447658
+
+Cross val. three fold for
+{'n_layers': 2, 'epochs': 20, 'batch_size': 80, 'n_neurons': 150}
+Gives score of 0.9941428535098121
+
+Cross val. three fold for
+{'n_layers': 2, 'epochs': 20, 'batch_size': 80, 'n_neurons': 250}
+Gives score of 0.9944714249202183
+
+Cross val. three fold for
+{'n_layers': 2, 'epochs': 20, 'batch_size': 100, 'n_neurons': 10}
+Gives score of 0.9912952369281224
+
+Cross val. three fold for
+{'n_layers': 2, 'epochs': 20, 'batch_size': 100, 'n_neurons': 80}
+Gives score of 0.9936761874244326
+
+Cross val. three fold for
+{'n_layers': 2, 'epochs': 20, 'batch_size': 100, 'n_neurons': 150}
+Gives score of 0.994004757563273
+
+Cross val. three fold for
+{'n_layers': 2, 'epochs': 20, 'batch_size': 100, 'n_neurons': 250}
+Gives score of 0.9934714257603598
+
+Cross val. three fold for
+{'n_layers': 2, 'epochs': 20, 'batch_size': 120, 'n_neurons': 10}
+Gives score of 0.9906190465972537
+
+Cross val. three fold for
+{'n_layers': 2, 'epochs': 20, 'batch_size': 120, 'n_neurons': 80}
+Gives score of 0.9933999978247142
+
+Cross val. three fold for
+{'n_layers': 2, 'epochs': 20, 'batch_size': 120, 'n_neurons': 150}
+Gives score of 0.9938380913734437
+
+Cross val. three fold for
+{'n_layers': 2, 'epochs': 20, 'batch_size': 120, 'n_neurons': 250}
+Gives score of 0.994147616227468
+
+Cross val. three fold for
+{'n_layers': 2, 'epochs': 30, 'batch_size': 80, 'n_neurons': 10}
+Gives score of 0.9908476186479841
+
+Cross val. three fold for
+{'n_layers': 2, 'epochs': 30, 'batch_size': 80, 'n_neurons': 80}
+Gives score of 0.9938047575042361
+
+Cross val. three fold for
+{'n_layers': 2, 'epochs': 30, 'batch_size': 80, 'n_neurons': 150}
+Gives score of 0.9943904724121094
+
+Cross val. three fold for
+{'n_layers': 2, 'epochs': 30, 'batch_size': 80, 'n_neurons': 250}
+Gives score of 0.9934714266913277
+
+Cross val. three fold for
+{'n_layers': 2, 'epochs': 30, 'batch_size': 100, 'n_neurons': 10}
+Gives score of 0.9919619033450172
+
+Cross val. three fold for
+{'n_layers': 2, 'epochs': 30, 'batch_size': 100, 'n_neurons': 80}
+Gives score of 0.9937571403639657
+
+Cross val. three fold for
+{'n_layers': 2, 'epochs': 30, 'batch_size': 100, 'n_neurons': 150}
+Gives score of 0.9938238072849455
+
+Cross val. three fold for
+{'n_layers': 2, 'epochs': 30, 'batch_size': 100, 'n_neurons': 250}
+Gives score of 0.9942904732113792
+
+Cross val. three fold for
+{'n_layers': 2, 'epochs': 30, 'batch_size': 120, 'n_neurons': 10}
+Gives score of 0.9912095227468581
+
+Cross val. three fold for
+{'n_layers': 2, 'epochs': 30, 'batch_size': 120, 'n_neurons': 80}
+Gives score of 0.9935952346665519
+
+Cross val. three fold for
+{'n_layers': 2, 'epochs': 30, 'batch_size': 120, 'n_neurons': 150}
+Gives score of 0.993742852869488
+
+Cross val. three fold for
+{'n_layers': 2, 'epochs': 30, 'batch_size': 120, 'n_neurons': 250}
+Gives score of 0.9940142835889544
+
+Cross val. three fold for
+{'n_layers': 6, 'epochs': 10, 'batch_size': 80, 'n_neurons': 10}
+Gives score of 0.9761619092396328
+
+Cross val. three fold for
+{'n_layers': 6, 'epochs': 10, 'batch_size': 80, 'n_neurons': 80}
+Gives score of 0.9924619025957018
+
+Cross val. three fold for
+{'n_layers': 6, 'epochs': 10, 'batch_size': 80, 'n_neurons': 150}
+Gives score of 0.9920952355975197
+
+Cross val. three fold for
+{'n_layers': 6, 'epochs': 10, 'batch_size': 80, 'n_neurons': 250}
+Gives score of 0.9921380934488205
+
+Cross val. three fold for
+{'n_layers': 6, 'epochs': 10, 'batch_size': 100, 'n_neurons': 10}
+Gives score of 0.983738097531455
+
+Cross val. three fold for
+{'n_layers': 6, 'epochs': 10, 'batch_size': 100, 'n_neurons': 80}
+Gives score of 0.9918476179440816
+
+Cross val. three fold for
+{'n_layers': 6, 'epochs': 10, 'batch_size': 100, 'n_neurons': 150}
+Gives score of 0.9915809508278257
+
+Cross val. three fold for
+{'n_layers': 6, 'epochs': 10, 'batch_size': 100, 'n_neurons': 250}
+Gives score of 0.9901952384540014
+
+Cross val. three fold for
+{'n_layers': 6, 'epochs': 10, 'batch_size': 120, 'n_neurons': 10}
+Gives score of 0.9755047688711257
+
+Cross val. three fold for
+{'n_layers': 6, 'epochs': 10, 'batch_size': 120, 'n_neurons': 80}
+Gives score of 0.9921380937894186
+
+Cross val. three fold for
+{'n_layers': 6, 'epochs': 10, 'batch_size': 120, 'n_neurons': 150}
+Gives score of 0.9917666661398753
+
+Cross val. three fold for
+{'n_layers': 6, 'epochs': 10, 'batch_size': 120, 'n_neurons': 250}
+Gives score of 0.9923857132139661
+
+Cross val. three fold for
+{'n_layers': 6, 'epochs': 20, 'batch_size': 80, 'n_neurons': 10}
+Gives score of 0.9566666605131967
+
+Cross val. three fold for
+{'n_layers': 6, 'epochs': 20, 'batch_size': 80, 'n_neurons': 80}
+Gives score of 0.9933333306993757
+
+Cross val. three fold for
+{'n_layers': 6, 'epochs': 20, 'batch_size': 80, 'n_neurons': 150}
+Gives score of 0.9921809505508059
+
+Cross val. three fold for
+{'n_layers': 6, 'epochs': 20, 'batch_size': 80, 'n_neurons': 250}
+Gives score of 0.9915809505780538
+
+Cross val. three fold for
+{'n_layers': 6, 'epochs': 20, 'batch_size': 100, 'n_neurons': 10}
+Gives score of 0.9835238123848326
+
+Cross val. three fold for
+{'n_layers': 6, 'epochs': 20, 'batch_size': 100, 'n_neurons': 80}
+Gives score of 0.9930428534008208
+
+Cross val. three fold for
+{'n_layers': 6, 'epochs': 20, 'batch_size': 100, 'n_neurons': 150}
+Gives score of 0.9931571390742349
+
+Cross val. three fold for
+{'n_layers': 6, 'epochs': 20, 'batch_size': 100, 'n_neurons': 250}
+Gives score of 0.9923142837115697
+
+Cross val. three fold for
+{'n_layers': 6, 'epochs': 20, 'batch_size': 120, 'n_neurons': 10}
+Gives score of 0.9828571496918088
+
+Cross val. three fold for
+{'n_layers': 6, 'epochs': 20, 'batch_size': 120, 'n_neurons': 80}
+Gives score of 0.9917714267004104
+
+Cross val. three fold for
+{'n_layers': 6, 'epochs': 20, 'batch_size': 120, 'n_neurons': 150}
+Gives score of 0.9927809503873188
+
+Cross val. three fold for
+{'n_layers': 6, 'epochs': 20, 'batch_size': 120, 'n_neurons': 250}
+Gives score of 0.992899996575855
+
+Cross val. three fold for
+{'n_layers': 6, 'epochs': 30, 'batch_size': 80, 'n_neurons': 10}
+Gives score of 0.9834904779252551
